@@ -1,14 +1,15 @@
-Please download WAMP(Windows)/XAMPP(Windows)/LAMP(Linux) if you want to host this project locally
+installation and run:
 
-Please Subscribe YouTube Channel
-"Tech Vegan"
+1) Please download WAMP(Windows)/XAMPP(Windows)/LAMP(Linux) if you want to host this project locally
 
-Channel Link: https://www.youtube.com/channel/UCs_dbtq_OF-0HxkAQnBGapA?sub_confirmation=1
+2) install it then run MYSQL and apache
 
-For MoreProjects (Web & Hardware based)
-Visit above Link
+3) go to php-my-admin create database feedback
 
+4) import SQL file 
 
-Support
-technologyvegan@gmail.com
-https://www.ashishvegan.com
+5) move project files in htdocs folder 
+
+6) run the code :)
+
+thank you....

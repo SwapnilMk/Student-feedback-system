@@ -28,7 +28,7 @@ if(!empty($_POST))
 		
 ?>
 <!doctype html>
-<html><!-- Designed & Developed by Ashish Labade (Tech Vegan) www.ashishvegan.com | Not for Commercial Use-->
+<html>
 <head>
 <meta charset="utf-8">
 <title>Student Feedback System</title>
@@ -37,7 +37,7 @@ if(!empty($_POST))
 
 <body>
 <div id="topHeader">
-	TECH VEGAN PROJECTS<br />
+
     <span class="tag">STUDENT FEEDBACK SYSTEM</span>
 </div>
 <br>

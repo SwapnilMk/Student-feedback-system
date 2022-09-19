@@ -15,7 +15,7 @@ $nm = mysqli_fetch_array(mysqli_query($al, "SELECT * FROM faculty WHERE faculty_
 $_SESSION['name'] = $nm['name'];
 ?>
 <!doctype html>
-<html><!-- Designed & Developed by Ashish Labade (Tech Vegan) www.ashishvegan.com | Not for Commercial Use-->
+<html>
 <head>
 <meta charset="utf-8">
 <title>Student Feedback System</title>
@@ -24,7 +24,7 @@ $_SESSION['name'] = $nm['name'];
 
 <body>
 <div id="topHeader">
-	TECH VEGAN PROJECTS<br />
+
     <span class="tag">STUDENT FEEDBACK SYSTEM</span>
 </div>
 <br>
